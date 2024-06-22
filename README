@@ -60,7 +60,8 @@ This project is a Flask-based RESTful API designed to manage a system of article
     ```
     flask run
     ```
-
+##  Swagger URL
+    http://localhost:5000/api/docs
 ## Usage
 
 ### Endpoints
